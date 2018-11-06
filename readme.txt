@@ -1,4 +1,5 @@
-Program TubesAlgeo2.py
+Program 
+
 
 Fungsi yang digunakan:
 	Baca(I,x,y): yang berfungsi membentuk list dengan isi berupa kumpulan titik-titik dari grafik yang akan dibuat
